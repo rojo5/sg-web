@@ -24,6 +24,7 @@
         </a>
       </div>
     </div>
+    <fa :icon="['fas', 'rocket']" class="transform -rotate-45" />
   </div>
 </template>
 
