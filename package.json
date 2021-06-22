@@ -17,10 +17,14 @@
     "@popperjs/core": "2.9.1",
     "core-js": "^3.9.1",
     "nuxt": "^2.15.3",
-    "nuxt-fontawesome": "^0.4.0"
+    "nuxt-fontawesome": "^0.4.0",
+    "vue-slick-carousel": "^1.0.6"
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^4.1.2",
-    "postcss": "^8.2.15"
+    "fibers": "^5.0.0",
+    "postcss": "^8.2.15",
+    "sass": "^1.35.1",
+    "sass-loader": "^10.2.0"
   }
 }

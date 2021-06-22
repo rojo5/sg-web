@@ -1,41 +1,17 @@
 <template>
   <div>
-    <img src="@/assets/images/portada.jpg" alt="Portada" class="w-full"/>
-    <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ac ex quam. Nunc posuere mollis massa, vitae interdum lectus viverra sit amet. Donec at dolor tellus. Sed tincidunt justo vitae pretium ornare. Vestibulum mollis egestas malesuada. Sed tincidunt efficitur ante, et suscipit sem. Donec auctor, libero ac congue sollicitudin, nisi nibh mollis diam, non interdum velit diam at justo. Donec dui ante, ullamcorper ut tristique vitae, vehicula et nisl. Praesent ultrices, ligula a molestie lacinia, odio augue consequat urna, ac tincidunt ligula enim sed eros. Vivamus fringilla iaculis massa sed viverra. Nunc ullamcorper purus nec ante interdum, eu finibus urna aliquam.
-
-Integer ullamcorper vehicula metus, ac congue est gravida in. Maecenas facilisis enim lacus, et tincidunt leo laoreet ac. Quisque ipsum urna, aliquet non finibus et, viverra eget magna. Donec gravida lacinia luctus. Nullam quis tincidunt sapien. Quisque pulvinar at tellus sit amet venenatis. Morbi sit amet mauris dolor. Curabitur rhoncus non enim quis vulputate. Duis non maximus massa, ac sodales lacus. Etiam sit amet urna commodo, tincidunt urna quis, venenatis lacus. Nam eget commodo enim. Vivamus pulvinar purus tincidunt erat tempor, imperdiet aliquet lorem pretium. Cras lacus lorem, venenatis quis lectus nec, suscipit consectetur orci. Duis iaculis urna a convallis porttitor. Sed iaculis dolor venenatis condimentum ornare. Integer scelerisque dictum arcu nec malesuada.
-
-Nunc est eros, malesuada eget libero sit amet, scelerisque fermentum velit. Suspendisse eget scelerisque ligula, quis porttitor sapien. Maecenas sem turpis, ultricies non nibh sed, consequat laoreet tellus. Curabitur id massa urna. Quisque volutpat sollicitudin euismod. Nunc interdum eros a nisl condimentum sodales. In eget arcu eget neque porta mattis. In accumsan est imperdiet, iaculis dolor nec, scelerisque lorem. Aliquam tempor lacus nec nibh iaculis, vel dapibus odio tincidunt. Proin lacus ligula, viverra ut ipsum ac, malesuada iaculis lorem. Aliquam ornare justo vel tellus egestas pharetra. Etiam purus nisl, porttitor non justo nec, tristique interdum leo. Nam nec efficitur augue, vel mollis tellus.
-
-Nullam et eros sed sapien lacinia tempus nec quis nisl. Nullam vestibulum fringilla nibh vitae sodales. Proin nunc justo, scelerisque vitae elementum vitae, ornare sit amet massa. Sed at nunc at massa tristique imperdiet. Suspendisse tempor cursus sagittis. Fusce vulputate auctor ipsum id eleifend. Nulla non erat laoreet, posuere elit sit amet, pellentesque magna. Curabitur dui neque, placerat et purus id, consectetur posuere magna. Vestibulum et magna dapibus, faucibus arcu non, convallis nisi. Nunc elit nisi, pharetra sed consectetur et, molestie vel erat. Donec mollis euismod sem. In nisi dui, eleifend vel vulputate eget, placerat vestibulum augue. Nulla facilisi.
-
-Quisque interdum sodales justo ac ornare. Nunc ultricies augue elit. Aliquam vulputate sagittis pharetra. Nam feugiat rutrum feugiat. Praesent consectetur libero ligula, pharetra auctor libero rutrum ut. Suspendisse vestibulum egestas sem, vel consequat nisl. Aenean vitae gravida sem, eu facilisis nisl. Proin lacinia porttitor est vel molestie.
-
-Nunc semper velit sed euismod volutpat. Vestibulum bibendum metus et est finibus, at luctus ante cursus. Integer feugiat vulputate massa non facilisis. Phasellus pulvinar nisi at dui ultricies hendrerit. Aliquam varius ex vitae sapien malesuada congue. Praesent pulvinar magna ac tortor laoreet, a tristique quam egestas. Nullam mollis euismod nunc tincidunt iaculis. Donec condimentum erat nulla, at fringilla nunc pretium quis. Aenean cursus ipsum magna, eu lobortis ipsum cursus sed. Nullam id risus nec felis luctus bibendum quis quis lectus. Cras interdum orci in tristique dignissim. Etiam mollis euismod quam ut placerat. Fusce a ex tempus massa commodo bibendum. Suspendisse et est cursus, lacinia enim sed, porta neque. Quisque mi leo, ullamcorper sed enim id, scelerisque sodales leo. Vivamus sed egestas nisi, eget tincidunt urna.
-
-Morbi a suscipit metus, eget aliquam nisl. Nunc placerat risus vel mi commodo, suscipit mattis est posuere. Pellentesque quis velit lectus. Vivamus rhoncus dolor libero, id placerat est semper vitae. Sed consequat venenatis lectus, ac molestie neque lobortis finibus. Ut eu enim ut turpis vulputate vehicula. In et enim vel nulla rhoncus consectetur. Fusce ac nulla vulputate, elementum leo sit amet, accumsan odio. Donec ultrices consectetur est eget interdum. Vestibulum eget congue leo. Nam vel purus id mi fermentum placerat. Maecenas pharetra, tortor id pretium tincidunt, metus nunc convallis enim, non mollis lectus diam a ante. Cras consequat erat non sem volutpat, et tempus velit malesuada. Integer id dolor eget justo eleifend feugiat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam justo purus, dapibus at tortor vel, bibendum lacinia metus.
-
-Sed porttitor a augue eget bibendum. Nunc consectetur, lacus non aliquam porttitor, sapien turpis maximus purus, vel fermentum ex est non magna. Nullam ut ultrices nibh, et rutrum augue. Quisque velit ex, dignissim eget ultrices id, convallis ac purus. Suspendisse vel enim sed lacus gravida pulvinar ut sit amet leo. Nam aliquet nec risus sit amet finibus. Etiam eget consectetur arcu.
-
-Praesent vulputate laoreet sapien, et ultrices ante imperdiet a. Integer id hendrerit ante. Nam elit nibh, condimentum bibendum rutrum et, tempus a enim. Quisque fringilla euismod venenatis. Cras consequat dolor ut turpis laoreet commodo. Morbi dictum leo eget porttitor lobortis. Suspendisse sed lectus eu sem vehicula dictum a vitae diam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus egestas velit non ex lobortis luctus. Quisque sed sapien ac risus rutrum egestas. Ut viverra ipsum vel libero tincidunt, vitae pulvinar mi gravida. Mauris id tempus ipsum. Morbi hendrerit luctus ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-
-Cras nec sem augue. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum tempus blandit rhoncus. Mauris porta massa vitae ante porttitor volutpat. Nam euismod, odio at convallis pulvinar, eros leo tincidunt massa, a tristique augue tortor ac justo. Suspendisse odio urna, fringilla sit amet augue viverra, tincidunt pulvinar dui. Pellentesque nisl ipsum, finibus sit amet venenatis ac, posuere at orci. Mauris tristique in orci sed tempus. Nunc id pulvinar quam. Proin quis malesuada neque. Suspendisse mi erat, scelerisque id odio at, bibendum consequat nisi. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla orci mi, dictum non sagittis in, tempor nec nisl.
-
-Phasellus sit amet massa eu enim fermentum bibendum in nec erat. Fusce facilisis ligula interdum, dapibus lacus eget, sollicitudin dui. Phasellus dictum posuere vestibulum. Sed a felis pulvinar, tempus mauris a, vehicula dui. In eu ex vel nibh aliquam auctor. Sed imperdiet luctus iaculis. Nam ultrices vitae tortor a tristique. Nullam malesuada nulla ut gravida ullamcorper. Suspendisse tincidunt quis tortor a tempus. Morbi sed arcu ligula.
-
-Integer venenatis varius justo, at luctus lorem consequat et. Morbi suscipit mollis lacus sit amet viverra. Pellentesque aliquam posuere massa suscipit venenatis. Morbi eget felis sed tortor aliquet dapibus. Aenean laoreet, risus in convallis mattis, ex odio tempus lectus, ac tincidunt ligula tellus sit amet massa. Nam rutrum leo sed est faucibus blandit. Donec mollis tempor est, a posuere purus vehicula id. Etiam sit amet justo in risus ultricies ullamcorper. In est mauris, pellentesque sit amet dolor eget, consectetur tincidunt tellus. Mauris cursus luctus risus, vel scelerisque tellus mollis nec. Aenean quam metus, gravida sed tincidunt at, ullamcorper a leo. Maecenas congue lorem et lacus ultricies semper. Nulla facilisi.
-
-Sed 
-Aliquam condimentum congue tellus eget molestie. Etiam sed mollis massa. Nam ullamcorper at lacus id tempus. Phasellus ut nisi vel quam elementum semper. Quisque sed dui a odio luctus dapibus. Ut sem arcu, dignissim a augue non, sodales pharetra lectus. Nam vulputate molestie felis, vitae ullamcorper urna. Phasellus massa nibh, ultrices nec hendrerit eu, pellentesque sed est. Aliquam vitae pharetra orci.
-
-Proin iaculis nulla at suscipit dapibus. Pellentesque euismod felis eget leo scelerisque consectetur eget ac justo. Aliquam et tortor eget tellus dignissim interdum et non elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et laoreet ligula. Phasellus dignissim aliquam enim, eget mollis est laoreet sit amet. Phasellus at neque ac tortor pharetra commodo ut et dolor. Cras in turpis interdum, luctus mi at, pulvinar neque. Aenean suscipit egestas ante, non sodales sem dapibus sit amet. Quisque auctor eu nisi eget maximus. Sed nisi velit, euismod in neque id, feugiat ornare justo. Sed accumsan sed nibh nec rutrum. Curabitur blandit tortor sed nibh auctor cursus.
-    </p>
+    <section>
+      <carousel />
+    </section>
   </div>
 </template>
 
 <script>
-export default {}
+import Carousel from '@/components/Carousel'
+
+export default {
+  components:{ Carousel}
+}
 </script>
 
 <style>
